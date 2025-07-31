@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MAX333CPP")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty/MAX333CPP.pretty")(options "")(descr ""))
+  (lib (name "levelShifter")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty/levelShifter.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty/Library.pretty")(options "")(descr ""))
+)
